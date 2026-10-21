@@ -46,7 +46,7 @@ from 72 dreamers, and the largest series is 17% of coded reports.
 ## Citation
 If you use this code, please cite the archived version:
 [Sahar Tebyanian]. (2026). Code for dreamer-grouped emotion classification of
-DreamBank dream reports (v1.0.0) [Software]. Zenodo. [DOI to be added]
+DreamBank dream reports (v1.0.0) [Software]. Zenodo. Tebyanian, S. (2026). Code for dreamer-grouped emotion classification of DreamBank dream reports (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23542304
 
 ## Licence
 MIT. See the LICENSE file.
