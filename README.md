@@ -14,6 +14,7 @@ Reports come from DreamBank (https://dreams.ucsc.edu). The data file is
 not included in this repository. Download the data from the source,
 save it as `train.csv` in the same folder as the notebook, and check
 DreamBank's terms of use.
+train.csv is the file from the Hugging Face dataset gustavecortal/DreamBank-annotated (Cortal, 2024), which contains DreamBank reports (Domhoff & Schneider, 2008) with emotion annotations produced mostly by a language model. The file is not redistributed here. Downloaded on [12 Audust 2026].
 
 Expected columns: id, name, number, time, date, gender, age, report,
 character, emotion (27,952 rows).
